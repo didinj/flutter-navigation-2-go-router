@@ -1,6 +1,6 @@
 # Understanding Flutter Navigation 2.0 with GoRouter
 
-Read full article [here]().
+Read full article [here](https://www.djamware.com/post/684652e722004151faec3202/understanding-flutter-navigation-20-with-gorouter).
 
 ## Getting Started
 
